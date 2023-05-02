@@ -1,5 +1,13 @@
 # @graphql-codegen/graphql-modules-preset
 
+## 3.1.4
+
+### Patch Changes
+
+- Updated dependencies [[`3848a2b73`](https://github.com/dotansimha/graphql-code-generator/commit/3848a2b73339fe9f474b31647b71e75b9ca52a96), [`63827fabe`](https://github.com/dotansimha/graphql-code-generator/commit/63827fabede76b2380d40392aba2a3ccb099f0c4), [`5aa95aa96`](https://github.com/dotansimha/graphql-code-generator/commit/5aa95aa969993043ba5e9d5dabebd7127ea5e22c), [`5aa95aa96`](https://github.com/dotansimha/graphql-code-generator/commit/5aa95aa969993043ba5e9d5dabebd7127ea5e22c)]:
+  - @graphql-codegen/visitor-plugin-common@3.2.0
+  - @graphql-codegen/plugin-helpers@4.2.1
+
 ## 3.1.3
 
 ### Patch Changes

@@ -1,5 +1,11 @@
 # @graphql-codegen/plugin-helpers
 
+## 4.2.1
+
+### Patch Changes
+
+- [#9360](https://github.com/dotansimha/graphql-code-generator/pull/9360) [`63827fabe`](https://github.com/dotansimha/graphql-code-generator/commit/63827fabede76b2380d40392aba2a3ccb099f0c4) Thanks [@beerose](https://github.com/beerose)! - Add handleAsSDL property to UrlSchemaOptions type
+
 ## 4.2.0
 
 ### Minor Changes

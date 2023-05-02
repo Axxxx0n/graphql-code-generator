@@ -1,5 +1,23 @@
 # @graphql-codegen/client-preset
 
+## 3.1.0
+
+### Minor Changes
+
+- [#9196](https://github.com/dotansimha/graphql-code-generator/pull/9196) [`3848a2b73`](https://github.com/dotansimha/graphql-code-generator/commit/3848a2b73339fe9f474b31647b71e75b9ca52a96) Thanks [@beerose](https://github.com/beerose)! - Add `@defer` directive support
+
+### Patch Changes
+
+- [#9196](https://github.com/dotansimha/graphql-code-generator/pull/9196) [`3848a2b73`](https://github.com/dotansimha/graphql-code-generator/commit/3848a2b73339fe9f474b31647b71e75b9ca52a96) Thanks [@beerose](https://github.com/beerose)! - Pass `emitLegacyCommonJSImports` and `isStringDocumentMode` to the client preset config
+
+- Updated dependencies [[`3848a2b73`](https://github.com/dotansimha/graphql-code-generator/commit/3848a2b73339fe9f474b31647b71e75b9ca52a96), [`63827fabe`](https://github.com/dotansimha/graphql-code-generator/commit/63827fabede76b2380d40392aba2a3ccb099f0c4), [`5aa95aa96`](https://github.com/dotansimha/graphql-code-generator/commit/5aa95aa969993043ba5e9d5dabebd7127ea5e22c), [`5aa95aa96`](https://github.com/dotansimha/graphql-code-generator/commit/5aa95aa969993043ba5e9d5dabebd7127ea5e22c)]:
+  - @graphql-codegen/typed-document-node@4.1.0
+  - @graphql-codegen/visitor-plugin-common@3.2.0
+  - @graphql-codegen/typescript-operations@3.1.0
+  - @graphql-codegen/typescript@3.1.0
+  - @graphql-codegen/plugin-helpers@4.2.1
+  - @graphql-codegen/gql-tag-operations@3.0.2
+
 ## 3.0.1
 
 ### Patch Changes
